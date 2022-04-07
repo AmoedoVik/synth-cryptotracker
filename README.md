@@ -1,3 +1,23 @@
+"The Cryptocurrency Payments Division of Synthrise Corporation is pleased to introduce our newest crypto tracker!  - *Available for desktop only.*
+
+* Fictitious Technology Company.''
+
+
+
+
+https://624ef727315d960aabdc4bae--stellular-hummingbird-596156.netlify.app
+
+Check out the project on Netlify :D
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
